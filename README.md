@@ -1,4 +1,4 @@
-# Metering - Infrastructure
+# Terragrunt - Infrastructure
 
 The goal of the project - to build fully declarative, scallable and reliable cloud infrastructure for AudioCodes Metering
 
